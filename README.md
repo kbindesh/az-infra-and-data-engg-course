@@ -123,4 +123,4 @@
 - Case Studies
   - Data migration from Hadoop to Azure Databricks
   - Setting up Data Pipeline using Azure Synapse Analytics
-- </details>
+</details>
