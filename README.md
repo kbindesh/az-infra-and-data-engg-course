@@ -1,4 +1,4 @@
-# Azure administration and Azure Data Engineering course
+# Azure Admin, DevOps and Azure Data Engineering Course
 
 ## Course Outline
 
@@ -56,7 +56,7 @@
 
 </details>
 <details>
- <summary> <b> Module-03: Docker and Kubernetes </b>  </summary>
+ <summary> <b> Module-03: Docker and Kubernetes ⚙️ </b>  </summary>
   
 - **Docker**: Package, Ship and Deploy Container Applications
   - Introduction to Containerization | Docker Primer
@@ -79,7 +79,7 @@
   </details>
 
 <details>
-  <summary> <b> Module-04: Data Engineering with Azure Services </b>  </summary>
+  <summary> <b> Module-04: Data Engineering with Azure Services 🔬:</b>  </summary>
 
 - Plan and Implement Storage in Azure - Azure Storage, Azure SQL DB, Cosmos DB
 - **T-SQL** Primer
